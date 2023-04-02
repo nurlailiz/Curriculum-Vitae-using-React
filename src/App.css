@@ -7,6 +7,10 @@
   margin-bottom: 10em;
 }
 
+@media only screen and (max-width: 600px) {
+  .App {margin: 10em;}
+}
+
 .App-header {
   display: flex;
   margin-top: 3em;
