@@ -3,23 +3,29 @@ List of references
 1. Learn React
 https://www.codecademy.com/learn/react-101
 
-2. HTML Character codes
+2. How to Setup create-react-app in Visual Studio Code
+https://www.tutorialfunda.com/reactjs/setup-create-react-app-in-visual-studio-code/
+
+3. HTML Character codes
 https://www.rapidtables.com/web/html/html-codes.html
 
-3. CSS Flex Container
+4. CSS Flex Container
 https://www.w3schools.com/css/css3_flexbox_container.asp#justify-content
 
-4. CSS Layout - Horizontal & Vertical Align
+5. CSS Layout - Horizontal & Vertical Align
 https://www.w3schools.com/css/css_align.asp
 
-5. CSS Fonts
+6. CSS Fonts
 https://www.w3schools.com/css/css_font.asp
 
-6. How can I draw red horizontal line in React
+7. How can I draw red horizontal line in React
 https://stackoverflow.com/questions/48156902/how-can-i-draw-red-horizontal-line-in-react
 
-7. How to reduce the space between <p> tags?
+8. How to reduce the space between <p> tags?
 https://stackoverflow.com/questions/2787310/how-to-reduce-the-space-between-p-tags
 
-8. How to insert spaces/tabs in text using HTML/CSS?
+9. How to insert spaces/tabs in text using HTML/CSS?
 https://www.geeksforgeeks.org/how-to-insert-spaces-tabs-in-text-using-html-css/
+
+10. How To Deploy A React App To Github Pages
+https://www.youtube.com/watch?v=Q9n2mLqXFpU
