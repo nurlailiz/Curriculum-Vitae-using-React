@@ -8,14 +8,15 @@
 }
 
 @media only screen and (max-width: 600px) {
-  .App {width: 40em;}
-  .App-header {font-size: 12px;}
-  .App-header h3 {font-size: 18px;}
-  .Section-title {font-size: 16px;}
-  .Bold-item {font-size: 14px;}
-  .Education-year {font-size: 12px;}
-  .App li {font-size: 12px;}
-  .Content-ref {font-size: 12px;}
+  .App {width: 30em;
+  padding: 1em}
+  .App-header {font-size: 9px;}
+  .App-header h3 {font-size: 15px;}
+  .Section-title {font-size: 13px;}
+  .Bold-item {font-size: 11px;}
+  .Education-year {font-size: 9px;}
+  .App li {font-size: 9px;}
+  .Content-ref {font-size: 9px;}
 }
 
 .App-header {
