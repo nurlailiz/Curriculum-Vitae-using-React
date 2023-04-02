@@ -8,7 +8,14 @@
 }
 
 @media only screen and (max-width: 600px) {
-  .App {margin: 10em;}
+  .App {margin: 40em;}
+  .App-header {font-size: 12px;}
+  .App-header h3 {font-size: 18px;}
+  .Section-title {font-size: 16px;}
+  .Bold-item {font-size: 14px;}
+  .Education-year {font-size: 12px;}
+  .App li {font-size: 12px;}
+  .Content-ref {font-size: 12px;}
 }
 
 .App-header {
