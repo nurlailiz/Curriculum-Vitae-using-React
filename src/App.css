@@ -8,17 +8,7 @@
 }
 
 @media only screen and (max-width: 600px) {
-  .App {width: 30em;
-  padding: 1em}
-  .App-header {font-size: 9px;}
-  .Desc {font-size: 9px;}
-  .App-header h3 {font-size: 15px;}
-  .Section-title {font-size: 13px;}
-  .Bold-item {font-size: 11px;}
-  .Education-year {font-size: 9px;}
-  .App li {font-size: 9px;}
-  .Content {font-size: 9px;}
-  .Content-ref {font-size: 9px;}
+  .App {width: 30em; padding: 1em}
 }
 
 .App-header {
